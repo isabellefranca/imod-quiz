@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    padding: 5rem 0;
+}
+
+.container h1 {
+    color: #202024;
+    margin-bottom: 1.5rem;
+    font-size: 53px;
+}
+
+.container p {
+    color: #202024;
+    margin-bottom: 1.5rem;
+    font-size: 20px;
+}
+
+.container button {
+    border-radius: 10px;
+    color: #202024;
+    background-color: transparent;
+    border: 1px solid rgb(249, 130, 249);
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    transition: 0.3s;
+}
+
+.container button:hover {
+    background-color: rgb(249, 130, 249);
+}
